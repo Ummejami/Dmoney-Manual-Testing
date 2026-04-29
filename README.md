@@ -1,6 +1,6 @@
-# 💳 MFS (Mobile Financial Service) — Manual Testing Project
+# 💳 DFS (Dmoney Financial Service) — Manual Testing Project
 
-A complete manual testing documentation project for a **Mobile Financial Service (MFS)** system — similar to bKash/Nagad — covering user registration, authentication, and customer transactions.
+A complete manual testing documentation project for a **Dmoney Financial Service (DFS)** system — similar to bKash/Nagad — covering user registration, authentication, and customer transactions.
 
 ---
 
@@ -25,8 +25,8 @@ This project contains end-to-end manual testing artifacts for an MFS platform bu
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Ummejami/Dmoney-Manual-Testing.git
+   cd Dmoney-Manual-Testing
 ```
 
 2. **Open in VS Code**
@@ -72,9 +72,7 @@ This project contains end-to-end manual testing artifacts for an MFS platform bu
 | 5 | Test Execution Report with Actual Results & Status | ✅ Done |
 | 6 | Exploratory Testing — Full System Bug Report | ✅ Done |
 | 7 | Full System Checklist | ✅ Done |
-| 8 | Acceptance Testing vs Acceptance Criteria (Difference) | ✅ Done |
-| 9 | Decision Table Testing vs Decision Coverage (Difference) | ✅ Done |
-| 10 | Exit Criteria vs Test Completion Report (Difference) | ✅ Done |
+
 
 ---
 
@@ -82,7 +80,7 @@ This project contains end-to-end manual testing artifacts for an MFS platform bu
 
 | Role | Email | Phone | Status |
 |------|-------|-------|--------|
-| Admin | admin@test.com | 01XXXXXXXXX | Active (seeded) |
+| Admin | admin@dmoney.com | 01XXXXXXXXX | Active (seeded) |
 | Agent | agent@test.com | 01XXXXXXXXX | Activated by Admin |
 | Customer | customer@test.com | 01XXXXXXXXX | Activated by Admin |
 | Merchant | merchant@test.com | 01XXXXXXXXX | Activated by Admin |
@@ -120,7 +118,6 @@ Exploratory testing was performed on the full system. Bug reports are documented
 - Severity & Priority
 - Status
 
-📄 See: [`bug-report/exploratory-testing-bugs.xlsx`](./bug-report/exploratory-testing-bugs.xlsx)
 
 ---
 
@@ -131,8 +128,7 @@ Exploratory testing was performed on the full system. Bug reports are documented
 | Send Money | — | — | — | — |
 | Bank Cash-In (Stripe) | — | — | — | — |
 | Payment to Merchant | — | — | — | — |
-
-> 📝 Fill in the numbers after execution is complete.
+| Cash Out | — | — | — | — |
 
 ---
 
@@ -144,13 +140,6 @@ Exploratory testing was performed on the full system. Bug reports are documented
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-
----
 
 ## 📄 License
 
