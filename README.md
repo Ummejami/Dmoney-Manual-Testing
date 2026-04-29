@@ -43,6 +43,7 @@ This project contains end-to-end manual testing artifacts for an MFS platform bu
 ---
 
 ## 📁 Project Structure
+```
 📦 mfs-manual-testing
  ┣ 📂 test-plan
  ┃ ┗ 📄 test-estimation.md
@@ -57,6 +58,7 @@ This project contains end-to-end manual testing artifacts for an MFS platform bu
  ┣ 📂 checklist
  ┃ ┗ 📄 full-system-checklist.xlsx
  ┗ 📄 README.md
+```
 ---
 
 ## ✅ Tasks Completed
