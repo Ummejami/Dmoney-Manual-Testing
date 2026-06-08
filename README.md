@@ -139,24 +139,35 @@ Exploratory testing was performed on the full system. Bug reports are documented
 - ✅ Exit Criteria vs Test Completion Report
 
 ---
-## Jira Management
+
 ## 📸 Jira Work Screenshots
 
+### 🗂️ Backlog
 ![Backlog](JJira%20Image/Backlog.png)
 
+### ⚡ Active Sprint
 ![ActiveSprint](JJira%20Image/ActiveSprint.png)
 
+### 📊 Burn Down
 ![BurnDown](JJira%20Image/BurnDown.png)
 
+### 📈 Burn Down Summary
 ![BurnDownSummary](JJira%20Image/BurnDownSummay.png)
 
+### 🎯 Priority
 ![Priority](JJira%20Image/Priority.png)
 
+### 🧩 Subtask
 ![Subtask](JJira%20Image/Subtask.png)
 
+### 📄 Summary
 ![Summary](JJira%20Image/Summary.png)
 
+### 👥 Team Workload
 ![TeamWorkload](JJira%20Image/TeamWorkload.png)
+
+### 📝 Type of Works
+![TypeOfWorks](JJira%20Image/TypeOfWorks.png)
 
 ![TypeOfWorks](JJira%20Image/TypeOfWorks.png)
 
