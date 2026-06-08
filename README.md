@@ -125,10 +125,10 @@ Exploratory testing was performed on the full system. Bug reports are documented
 
 | Module | Total TCs | Passed | Failed | Blocked |
 |--------|-----------|--------|--------|---------|
-| Send Money | — | — | — | — |
-| Bank Cash-In (Stripe) | — | — | — | — |
-| Payment to Merchant | — | — | — | — |
-| Cash Out | — | — | — | — |
+| Send Money | 12 | 10 | 2 | 0 |
+| Bank Cash-In (Stripe) | 10 | 8 | 2 | 0 |
+| Payment to Merchant | 10 | 10 | 0 | 0 |
+| Cash Out | 14 | 14 | 0 | 0 |
 
 ---
 
@@ -167,8 +167,6 @@ Exploratory testing was performed on the full system. Bug reports are documented
 ![TeamWorkload](JJira%20Image/TeamWorkload.png)
 
 ### 📝 Type of Works
-![TypeOfWorks](JJira%20Image/TypeOfWorks.png)
-
 ![TypeOfWorks](JJira%20Image/TypeOfWorks.png)
 
 ## 📄 License
