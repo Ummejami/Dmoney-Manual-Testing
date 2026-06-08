@@ -39,26 +39,6 @@ This project contains end-to-end manual testing artifacts for an MFS platform bu
    - Select your DB type (MySQL / PostgreSQL)
    - Enter host, port, database name, username & password
    - Test connection → Finish
-
----
-
-## 📁 Project Structure
-```
-📦 mfs-manual-testing
- ┣ 📂 test-plan
- ┃ ┗ 📄 test-estimation.md
- ┣ 📂 acceptance-criteria
- ┃ ┗ 📄 acceptance-criteria.md
- ┣ 📂 test-cases
- ┃ ┗ 📄 customer-transaction-test-cases.xlsx
- ┣ 📂 test-execution
- ┃ ┗ 📄 execution-report.xlsx
- ┣ 📂 bug-report
- ┃ ┗ 📄 exploratory-testing-bugs.xlsx
- ┣ 📂 checklist
- ┃ ┗ 📄 full-system-checklist.xlsx
- ┗ 📄 README.md
-```
 ---
 
 ## ✅ Tasks Completed
